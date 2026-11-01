@@ -1,0 +1,4 @@
+//There are Basically 3 approach for the 2 pointers
+//First i start from 0 where as j start from last-Target sum
+//Second Both start from the starting - Remove the duplicate from the array
+//Third is sliding window approach-Consecutive Subaarray to find
